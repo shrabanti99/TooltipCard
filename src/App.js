@@ -11,9 +11,9 @@ function App() {
             All users to see number of songs in an album upon hovering over the
             Album card.
           </p>
-        </div>
-        <div className="card">
+          <div className="card">
           <TooltipCard />
+        </div>
         </div>
       </div>
     </div>
