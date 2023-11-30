@@ -1,0 +1,34 @@
+.cardContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .tooltip {
+    /* width: 90%; */
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .follows {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 180px;
+    border-radius: 30px;
+  }
+  .remarks {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: white;
+    font-weight: 400;
+    font-size: larger;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+  }

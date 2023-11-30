@@ -1,0 +1,39 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: beige;
+}
+.content {
+  height: 70%;
+  width: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  width: 50%;
+  height: 100%;
+  padding: 0 5%;
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-radius: 4%;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 50%;
+  height: 100%;
+  border-radius: 4%;
+}
